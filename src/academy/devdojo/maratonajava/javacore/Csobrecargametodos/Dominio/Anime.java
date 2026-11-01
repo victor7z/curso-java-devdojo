@@ -6,6 +6,7 @@ public class Anime {
     private int episodios;
     private String genero;
 
+
     public void imprimirAnime(){
         System.out.println("Tipo: "+ this.tipo);
         System.out.println("Nome: "+ this.nome);

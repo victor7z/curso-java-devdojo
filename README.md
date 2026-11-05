@@ -1,8 +1,8 @@
 # ☕ Maratona Java — DevDojo
 
-Este repositório reúne meus estudos, códigos e exercícios desenvolvidos durante a **Maratona Java Virado no Jiraya**, curso ministrado por William Suane, da DevDojo Academy.
+Este repositório reúne meus estudos, códigos e exercícios da **Maratona Java Virado no Jiraya**, curso ministrado por William Suane, da DevDojo Academy.
 
-O objetivo é documentar minha evolução na linguagem Java, consolidar conhecimentos teóricos por meio da prática e construir uma base sólida para atuar profissionalmente como desenvolvedor.
+O objetivo é documentar minha evolução em Java, consolidar a teoria com prática e construir uma base sólida para atuar como desenvolvedor.
 
 ## 📚 Conteúdos estudados
 
@@ -14,41 +14,40 @@ O objetivo é documentar minha evolução na linguagem Java, consolidar conhecim
 - Introdução à Programação Orientada a Objetos (POO)
 - Classes, objetos e atributos
 - Referências de objetos
-- Métodos com e sem parâmetros
-- Métodos com retorno (`void`, `int`, `double`, `boolean`)
-- Passagem de parâmetros primitivos e referências
+- Métodos com e sem parâmetros, com e sem retorno
+
+## 🔄 Estudando agora
+
+- Encapsulamento
+- Construtores
+- Sobrecarga
+- Membros estáticos
 
 ## 🚀 Próximos conhecimentos
 
-Conforme avançar no curso, pretendo aprofundar meus estudos em:
-
-- Encapsulamento e construtores
 - Herança e polimorfismo
 - Classes abstratas e interfaces
 - Tratamento de exceções
 - Collections Framework
 - Manipulação de arquivos
-- Recursos avançados da linguagem Java
+- Recursos avançados da linguagem
 
 ## 🛠️ Tecnologias e ferramentas
 
 - **Linguagem:** Java
 - **IDE:** IntelliJ IDEA
-- **Versionamento:** Git
-- **Hospedagem de código:** GitHub
-
-## 🎯 Objetivo profissional
-
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac e busco desenvolver minhas habilidades técnicas para conquistar minha primeira oportunidade de estágio em desenvolvimento de software, com foco em Java.
-
-Este repositório representa minha evolução contínua, reunindo os conteúdos aprendidos e aplicados ao longo do curso.
+- **Versionamento:** Git e GitHub
 
 ## 📌 Status
 
-**Em andamento — Curso e exercícios em constante atualização.**
+**Em andamento.** O curso e os exercícios são atualizados conforme eu avanço.
 
----
+## 🎯 Objetivo profissional
 
-**Créditos:** DevDojo Academy — Maratona Java Virado no Jiraya.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac e busco minha primeira oportunidade de estágio em desenvolvimento de software, com foco em Java.
 
-Este repositório possui finalidade educacional e de documentação dos meus estudos.
+[LinkedIn](https://www.linkedin.com/in/victor-eduardo-533954347) · [GitHub](https://github.com/victor7z)
+
+## 🙏 Créditos
+
+Conteúdo das aulas: **DevDojo Academy — Maratona Java Virado no Jiraya**. Este repositório tem finalidade educacional e de documentação dos meus estudos.

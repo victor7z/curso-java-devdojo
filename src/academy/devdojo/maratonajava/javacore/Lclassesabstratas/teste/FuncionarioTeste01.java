@@ -10,8 +10,10 @@ public class FuncionarioTeste01 {
         System.out.println(gerente01);
         System.out.println();
 
-        Desenvolvedor desenvolvedor01 = new Desenvolvedor("Dev",7000);
+        Desenvolvedor desenvolvedor01 = new Desenvolvedor("Dev",12000);
         System.out.println(desenvolvedor01);
+        gerente01.imprime();
+        desenvolvedor01.imprime();
 
     }
 }
